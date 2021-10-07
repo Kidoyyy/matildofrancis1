@@ -27,7 +27,8 @@ html{
 }
 
 body{
-  background:#000000;
+  
+    background: linear-gradient(#EEEDE7,#868B8E,#B9B7BD,#E7D2CC)
 }
 
 section{
